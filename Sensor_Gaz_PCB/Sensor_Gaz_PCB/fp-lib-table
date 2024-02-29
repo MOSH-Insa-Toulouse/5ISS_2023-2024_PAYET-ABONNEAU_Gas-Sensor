@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Arduino_MountingHole")(type "KiCad")(uri "${KICAD7_TEMPLATE_DIR}/Arduino_Mega/Arduino_MountingHole.pretty")(options "")(descr ""))
+  (lib (name "Gas_Sensor_Library")(type "KiCad")(uri "${KIPRJMOD}/Gas_Sensor_Library.pretty")(options "")(descr ""))
+  (lib (name "Library_Capteur_Graphite")(type "KiCad")(uri "C:/Users/benbe/Downloads/2021-2022_Paccard_Lemaire_Projet_Capteur-main/KiCad_Shield/Library_Capteur_Graphite.pretty")(options "")(descr ""))
+)

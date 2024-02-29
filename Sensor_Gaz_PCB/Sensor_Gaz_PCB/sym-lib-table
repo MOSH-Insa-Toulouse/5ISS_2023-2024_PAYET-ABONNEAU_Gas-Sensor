@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Sensor_Gaz_Library")(type "KiCad")(uri "${KIPRJMOD}/Sensor_Gaz_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "Librairie_Capteur_graphite")(type "KiCad")(uri "C:/Users/benbe/Downloads/Librairie_Capteur_graphite.kicad_sym")(options "")(descr ""))
+)
